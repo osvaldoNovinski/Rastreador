@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rastreador</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="rastrear">Rastrear</string>
+    <string name="mapa">Mapa da Rota</string>
+    <string name="rota">Rota</string>
+
+    <string-array name="marcas">
+        <item>Fiat</item>
+        <item>Chevrolet</item>
+        <item>Volkswagen</item>
+    </string-array>
+    <string name="title_activity_maps">Minha rota</string>
+
+</resources>
